@@ -1,2 +1,2 @@
 # Financia-Pro
-The Mastering Money for Ministry project is about creating a system for clubs and organisations to support seamless and effective financial management 
+The Mastering Money for Ministry project is about creating a system for clubs and organisations to support seamless and effective financial management.It is birthed from a wide gap that poses significant effect caused by manual contribution tracking ,lost funds and unfulfilled commitments, double payments or overlapping contributions that result to trust erosion between individuals.Creation of this system promises to ensure transparency,support automated tracking of money,ensre intergrated payment nad trackin functionalities and supporting efficcient financial managemnet. 
